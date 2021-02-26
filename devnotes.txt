@@ -1,0 +1,2 @@
+npx create-react-app my-formik-app
+npm i formik
